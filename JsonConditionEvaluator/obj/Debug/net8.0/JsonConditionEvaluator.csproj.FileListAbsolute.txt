@@ -1,0 +1,17 @@
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\bin\Debug\net8.0\JsonConditionEvaluator.exe
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\bin\Debug\net8.0\JsonConditionEvaluator.deps.json
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\bin\Debug\net8.0\JsonConditionEvaluator.runtimeconfig.json
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\bin\Debug\net8.0\JsonConditionEvaluator.dll
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\bin\Debug\net8.0\JsonConditionEvaluator.pdb
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.csproj.AssemblyReference.cache
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.AssemblyInfoInputs.cache
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.AssemblyInfo.cs
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonCond.F2CB87A0.Up2Date
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.dll
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\refint\JsonConditionEvaluator.dll
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.pdb
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\JsonConditionEvaluator.genruntimeconfig.cache
+C:\Users\ShantanuKapadnis\source\repos\JsonConditionEvaluator\obj\Debug\net8.0\ref\JsonConditionEvaluator.dll
